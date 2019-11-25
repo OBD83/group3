@@ -89,6 +89,6 @@
 Для забезпечення збереження та цілісності використовуватиметься метод резервного копіювання.
 Для збереження незмінності та достовірності використовуватиметься комплекс технологічних і адміністративних процедур, що перешкоджають випадковій або навмисній зміні даних ззовні.
 
-![Untitled Diagram (1)](Untitled%20Diagram%20%281%29.PNG)
-![Untitled Diagram](Untitled%20Diagram.PNG)
+![Untitled Diagram (1)](https://github.com/OBD83/group3/blob/master/Untitled%20Diagram%20(1).PNG)
+![Untitled Diagram](https://github.com/OBD83/group3/blob/master/Untitled%20Diagram%20.PNG)
 
