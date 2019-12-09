@@ -91,9 +91,9 @@
 
 ![1](UC-Diagram/1.PNG)
 ![2](UC-Diagram/2.PNG)
-![3 (1)](UC-Diagram/3 (1).png)
+![3](UC-Diagram/3.png)
 ![4](UC-Diagram/4.png)
 ![5](UC-Diagram/5.png)
-![5 (1)](UC-Diagram/5 (1).png)
+![6](UC-Diagram/6.png)
 ![eer](UC-Diagram/eer (2).png)
 
