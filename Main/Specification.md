@@ -105,5 +105,5 @@
 ![6](UC-Diagram/6.png)
 
 Діаграма ЕЕР
-![eer](UC-Diagram/eer (2).png)
+![eer](UC-Diagram/eer.png)
 
