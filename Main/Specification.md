@@ -103,5 +103,5 @@
 
 Діаграма ЕЕР
 
-![eer](UC-Diagram/eer.png)
+![eer](UC-Diagram/222.png)
 
